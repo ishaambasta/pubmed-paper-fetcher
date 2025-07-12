@@ -1,0 +1,19 @@
+[project]
+name = "pubmed-paper-fetcher"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Isha",email = "ishamyst5@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "biopython (>=1.85,<2.0)",
+    "typer[all] (>=0.16.0,<0.17.0)",
+    "rich (>=14.0.0,<15.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
