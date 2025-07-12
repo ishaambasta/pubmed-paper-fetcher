@@ -2,9 +2,9 @@
 
 A command-line tool that:
 
-•   Queries PubMed using user-defined keywords
-•   Retrieves paper metadata
-•   Filters for research papers with at least one **non-academic** author (e.g., from pharmaceutical or biotech companies)
+- Queries PubMed using user-defined keywords
+- Retrieves paper metadata
+- Filters for research papers with at least one **non-academic** author (e.g., from pharmaceutical or biotech companies)
 
 -------------------------------------------------------------------------------------------------------------------------
 
